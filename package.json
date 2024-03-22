@@ -1,0 +1,18 @@
+{
+  "name": "webpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server --baseDir=\"public\""
+  },
+  "author": "your name here",
+  "license": "private",
+  "private": true,
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "granim": "^2.0.0"
+  }
+}
